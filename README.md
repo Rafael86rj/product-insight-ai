@@ -101,7 +101,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## 📊 Dashboard
-[Dashboard](./assets/Dashboard.png)
+![Dashboard](./assets/dashboard.png)
 
 ---
 
