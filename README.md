@@ -78,7 +78,7 @@ Dados → Tratamento → Análise → IA → Output
 ### 1. Clonar o repositório
 
 ```
-git clone https://github.com/seu-usuario/product-insight-ai.git
+git clone https://github.com/Rafael86rj/product-insight-ai.git
 cd product-insight-ai
 ```
 
@@ -100,6 +100,8 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+## 📊 Dashboard
+
 
 ---
 
